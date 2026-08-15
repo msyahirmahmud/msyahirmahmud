@@ -33,15 +33,12 @@ const syahir = {
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Profile Overview & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msyahirmahmud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Syahir's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyahirmahmud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msyahirmahmud&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/msyahirmahmud?style=for-the-badge&logo=github&color=2563eb" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/msyahirmahmud?style=for-the-badge&logo=github&color=059669" alt="Stars" />
+  <img src="https://img.shields.io/badge/Repositories-15%20Projects-7c3aed?style=for-the-badge&logo=github" alt="Repositories" />
 </p>
 
 ---
