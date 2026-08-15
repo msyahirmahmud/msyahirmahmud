@@ -33,11 +33,15 @@ const syahir = {
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msyahirmahmud&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Syahir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyahirmahmud&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msyahirmahmud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Syahir's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyahirmahmud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msyahirmahmud&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
 </p>
 
 ---
@@ -66,4 +70,4 @@ const syahir = {
 ## 📬 Connect With Me
 
 - **GitHub**: [@msyahirmahmud](https://github.com/msyahirmahmud)
-- **Email**: syahir@example.com
+- **Email**: [syahir136erezeki@gmail.com](mailto:syahir136erezeki@gmail.com)
